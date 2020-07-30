@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#33333D</color>
+    <color name="colorPrimaryDark">#27272F</color>
+    <color name="colorAccent">#EE7117</color>
+    <color name="colorCardViewThemeBlackOmnia">#37373F</color>
+    <color name="colorEdtThemeBlackOmnia">#41414B</color>
+    <color name="colorHintThemeBlackOmnia">#6B6A7A</color>
+    <color name="colorTextTitleThemeBlackOmnia">#F8F9FA</color>
+    <color name="colorIconThemeBlackOmnia">#FAFBFB</color>
+    <color name="colorRequiredField">#F76C57</color>
+</resources>
